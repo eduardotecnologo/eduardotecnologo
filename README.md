@@ -1,4 +1,5 @@
-### Hi there 👋
+### Helloo! 👋 Welcome to my profile
+[!Linkedin Badge](https://img.shields.io/badge/Linkedin-Eduardo%20Alexandre-blue)
 
 <!--
 **eduardotecnologo/eduardotecnologo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
