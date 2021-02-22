@@ -1,4 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm
+# Eduardo Alexandre
 <details>
   Software Engineer
 </details>
@@ -20,3 +21,5 @@ Languages and Tools:
       <code><img src="https://user-images.githubusercontent.com/51785898/91358318-ff3ec280-e7c8-11ea-9d80-c8e249594078.png" alt="Postgres" width="40" height="40"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="40" height="40"/></code>&nbsp;
    </p>
+
+![Eduardo Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardotecnologo&show_icons=true&theme=radical)
