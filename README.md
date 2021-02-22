@@ -26,7 +26,9 @@ Languages and Tools:
 
 ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg)
 ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg)
+![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)
 ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg)
 ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
+![Digital Ocean](https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg)
 
 
