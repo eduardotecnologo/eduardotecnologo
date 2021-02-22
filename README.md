@@ -2,6 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Eduardo%20Alexandre-blue)](https://www.linkedin.com/in/eduardotecnologo/)
 
+[![Linkedin Badge](https://img.shields.io/badge/Instagram-eduardodeveloper-red)
+
+
+
 
 ** Tecnologias **
 <p align="left">
