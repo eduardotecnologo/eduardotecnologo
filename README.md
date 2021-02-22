@@ -22,7 +22,7 @@ Estudando:
 
 ![Eduardo Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardotecnologo&show_icons=true&theme=radical)
 
-Languages and Tools:
+Frameworks and Tools:
 
 ![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg)
