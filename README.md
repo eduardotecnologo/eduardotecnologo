@@ -1,5 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm
-# Eduardo Alexandre
+<details>
+  Software Engineer
+</details>
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Eduardo%20Alexandre-blue)](https://www.linkedin.com/in/eduardotecnologo/)
 [![Linkedin Badge](https://img.shields.io/badge/Instagram-eduardodeveloper-red)](https://www.instagram.com/eduardodeveloper/)
