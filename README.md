@@ -10,7 +10,7 @@
 
 
 
-Estudando:
+Learning:
 
 <p align="left">
   <code><img src="https://user-images.githubusercontent.com/51785898/91357834-3eb8df00-e7c8-11ea-9936-0ce666ac2a11.png" alt="JS" width="40" height="40"/></code>&nbsp;
