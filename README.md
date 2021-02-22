@@ -24,6 +24,7 @@ Estudando:
 
 Languages and Tools:
 
+![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg)
 ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)
