@@ -1,4 +1,9 @@
- ** Tecnologias **
+# Eduardo Alexandre
+
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Eduardo%20Alexandre-blue&link=https://www.linkedin.com/in/eduardotecnologo/)](https://www.linkedin.com/in/eduardotecnologo/)
+
+
+** Tecnologias **
 <p align="left">
   <code><img src="https://user-images.githubusercontent.com/51785898/91357834-3eb8df00-e7c8-11ea-9936-0ce666ac2a11.png" alt="JS" width="40" height="40"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91357841-3fea0c00-e7c8-11ea-91de-947891a2dec6.png" alt="Docker" width="40" height="40" /></code>&nbsp;
