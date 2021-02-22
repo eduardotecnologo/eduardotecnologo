@@ -1,51 +1,13 @@
-
-<!--
-**eduardotecnologo/eduardotecnologo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h1 align="center">
-  <img src="" alt=""><br /><br />
-  <img src="" alt="" height="">
-</h1>
-
-<h3 align="center">
-    Helloo! 👋 Welcome to my profile
-</h3>
-
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/badge/typescript-00%2C0%25-green">
-
-  <a href="https://www.linkedin.com/in/eduardotecnologo/">
-    <img alt="Made by" src="https://img.shields.io/badge/Eduardo-Developer-green">
-  </a>
-
-  <img alt="Repository size" src="https://img.shields.io/badge/repo%20size-0.0%20MB-green">
-
-  <a href="https://github.com/eduardotecnologo/-MaratonaDevRocketseat/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/badge/last%20commit-today-green">
-  </a>
-
-  <a href="https://github.com/eduardotecnologo/-MaratonaDevRocketseat/issues">
-    <img alt="Repository issues" src="https://img.shields.io/badge/last%20commit-today-green">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/badge/license-MIT-green">
-</p>
-
-<img alt="" src="">
-
----
-
-<p align="center"> Made with 😍 Eduardo Developer  </p>
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ** Tecnologias **
+<p align="left">
+  <code><img src="https://user-images.githubusercontent.com/51785898/91357834-3eb8df00-e7c8-11ea-9936-0ce666ac2a11.png" alt="JS" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://user-images.githubusercontent.com/51785898/91357841-3fea0c00-e7c8-11ea-91de-947891a2dec6.png" alt="Docker" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://user-images.githubusercontent.com/51785898/91357843-411b3900-e7c8-11ea-8161-3e8191a6cde2.png" alt="React.js" width="60" height="40" /></code>&nbsp;
+<code><img src="https://user-images.githubusercontent.com/51785898/91357845-424c6600-e7c8-11ea-9457-53c06cf3b6ed.png" alt="React-Native" width="60" height="40" /></code>&nbsp;
+    <code><img src="https://user-images.githubusercontent.com/51785898/91357850-44162980-e7c8-11ea-966c-a7ebaba08ba3.png" alt="Node.js" width="40" height="40"/></code>&nbsp;
+      <code><img src="https://user-images.githubusercontent.com/51785898/91358293-f0581000-e7c8-11ea-95f0-f1a8e29ee9d1.png" alt="Testes" width="40" height="40"/></code>&nbsp;
+      <code><img src="https://user-images.githubusercontent.com/51785898/91358318-ff3ec280-e7c8-11ea-9d80-c8e249594078.png" alt="Postgres" width="40" height="40"/></code>&nbsp;
+      <code><img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://user-images.githubusercontent.com/51785898/91358419-31502480-e7c9-11ea-9bb8-5124117e9a75.png" alt="AWS" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="40" height="40"/></code>&nbsp;
+   </p>
