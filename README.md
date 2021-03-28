@@ -22,7 +22,7 @@ Learning:
 
 ![Eduardo Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardotecnologo&show_icons=true&theme=radical)
 
-Frameworks and Tools:
+Frameworks and Tools for Jobs:
 
 ![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 ![Embarcadeiro](https://www.vectorlogo.zone/logos/embarcadero/embarcadero-ar21.svg)
