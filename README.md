@@ -6,6 +6,7 @@
   - Tecnólogo em Análise e Desenvolvimento de Sistemas
   - Bacharel em Sistemas de Informação
   - Cursando MBA em Gestão da Qualidade de Software
+  - Cursando Especialização em Segurança da Informação, Cybernetica e Governança de TI 
 </details>
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Eduardo%20Alexandre-blue)](https://www.linkedin.com/in/eduardotecnologo/)
