@@ -7,7 +7,7 @@
   - Bacharel em Sistemas de Informação
   - MBA em Gestão da Qualidade de Software
   - Cursando Especialização em Segurança da Informação, Cybernetica e Governança de TI
-  - Epecialista Fullcycle - Fullstack
+  - Especialista FullCycle - Fullstack
   - Cursando Especialista Java Oracle 
 </details>
 
