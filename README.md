@@ -1,12 +1,14 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm
 # Eduardo Alexandre
 <details>
-  Information Technology Assistant at MRS Logística, Apaixonado por programação e viciado em café, entusiasta Filosofia Hacker.
+  System Analyst at MRS Logística, Apaixonado por programação e viciado em café, entusiasta Filosofia Hacker.
   
   - Tecnólogo em Análise e Desenvolvimento de Sistemas
   - Bacharel em Sistemas de Informação
-  - Cursando MBA em Gestão da Qualidade de Software
-  - Cursando Especialização em Segurança da Informação, Cybernetica e Governança de TI 
+  - MBA em Gestão da Qualidade de Software
+  - Cursando Especialização em Segurança da Informação, Cybernetica e Governança de TI
+  - Epecialista Fullcycle - Fullstack
+  - Cursando Especialista Java Oracle 
 </details>
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Eduardo%20Alexandre-blue)](https://www.linkedin.com/in/eduardotecnologo/)
